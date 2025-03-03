@@ -15,9 +15,9 @@ As a **Data Analytics postgraduate**, I have a strong foundation in **data visua
 ---
 
 ## 💻 Technologies & Tools  
-| 📌 **Languages** | Python, SQL |
-| 📊 **Data Visualization** | Power BI, Tableau, Excel |
-| 📈 **EDA & Analytics** | Pandas, NumPy, Matplotlib, Seaborn |
+- **Languages:** Python, SQL
+- **Data Visualization:** Power BI, Tableau, Excel
+- **EDA & Analytics:** Pandas, NumPy, Matplotlib, Seaborn
 
 ---
 
