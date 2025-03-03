@@ -1,6 +1,6 @@
 # 👋 Hey there! Good to see you. Welcome to my GitHub Profile!  
 ## I’m Rahul Nagra, 
-** an Aspiring Data Analyst with expertise in Python, SQL, Power BI, Tableau, and Excel.**
+**an Aspiring Data Analyst with expertise in Python, SQL, Power BI, Tableau, and Excel.**
 As a passionate **Data Analytics postgraduate**, I have a strong foundation in **data visualization, statistical analysis, and database management**. I love transforming raw data into actionable insights to solve real-world business problems and drive better decision-making. 🚀  
 
 ---
