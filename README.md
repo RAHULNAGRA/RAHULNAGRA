@@ -36,6 +36,7 @@ I'm a passionate **Data Analytics postgraduate** with a strong foundation in **d
 ## 📬 Connect With Me  
 
 📧 **Email:** rahul.nagra.001@gmail.com
+
 💼 **LinkedIn:** www.linkedin.com/in/rahulnagra  
 
 ---
