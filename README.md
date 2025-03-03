@@ -33,9 +33,9 @@ As a **Data Analytics postgraduate**, I have a strong foundation in **data visua
 
 ## 📬 Connect With Me  
 
-📧 **Email:** rahul.nagra.001@gmail.com  
-💼 **LinkedIn:** www.linkedin.com/in/rahulnagra
-📊 **Portfolio:** https://www.wscubetech.com/portfolio/data/rahul-nagra?u=Zs/7wRCtaQ7BZUMWtyBFGg== 
+- 📧**Email:** rahul.nagra.001@gmail.com  
+- 💼**LinkedIn:** www.linkedin.com/in/rahulnagra
+- 📊**Portfolio:** https://www.wscubetech.com/portfolio/data/rahul-nagra?u=Zs/7wRCtaQ7BZUMWtyBFGg== 
 
 ---
 
