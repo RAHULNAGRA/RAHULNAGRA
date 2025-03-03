@@ -1,6 +1,6 @@
 # 👋 Hey there! Good to see you. Welcome to my GitHub profile!
-# My name is Rahul Nagra, and I'm passionate about data analytics, visualization, and problem-solving.
-
+# My name is Rahul Nagra, 
+**and I'm passionate about data analytics, visualization, and problem-solving.**
 **Aspiring Data Analyst | Python | SQL | Power BI | Tableau | Excel**  
 
 I'm a passionate **Data Analytics postgraduate** with a strong foundation in **data visualization, statistical analysis, and database management**. I love working with **data-driven insights** to solve real-world business problems and improve decision-making.  
